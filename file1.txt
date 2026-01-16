@@ -1,4 +1,5 @@
 line from master again
+line from feature2
 
 conflict line from master
 
