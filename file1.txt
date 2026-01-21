@@ -1,3 +1,4 @@
+change made in master branch
 line from master again
 line from feature2
 
