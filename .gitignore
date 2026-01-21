@@ -1,2 +1,11 @@
 file3.txt.save
+
 file3.txt
+
+file3.txt.save1
+
+# Ignore backup files
+*.save
+*.save.*
+*.tmp
+*.log
