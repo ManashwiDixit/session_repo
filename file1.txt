@@ -1,1 +1,10 @@
+
 javascript 321
+
+line from master again
+line from feature2
+
+conflict line from master
+
+conflict lune from branch1 
+
